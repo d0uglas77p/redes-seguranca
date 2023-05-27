@@ -1,6 +1,6 @@
 # Principais Protocolos de Redes
 
-##### Neste artigo listarei alguns dos Principais Protocolos de Redes e algumas de suas funcionalidades brevemente. 
+##### _Neste artigo listarei alguns dos Principais Protocolos de Redes e algumas de suas funcionalidades brevemente._ 
 
 • Os protocolos surgiram para que a comunicação pudesse ser realizada de 
 maneira eficaz e padronizada.
@@ -11,7 +11,7 @@ tarefas de comunicação.
 
 
 
-**1) Modelo TCP/IP:** 
+**1) <u>Modelo TCP/IP:</u>** 
 
  A  arquitetura TCP/IP é combinação de dois protocolos TCP (Transmission Control Protocol) + IP (Internet Protocol). Eles são os responsáveis por todo o envio e recebimento de dados em todas as redes e consequentemente, na Internet. TCP/IP é uma referência do Modelo OSI, mas é a que foi implementada e está em uso até os dias de hoje. Ele é composto por 4 camadas, formando uma pilha de estrutura.
 
@@ -22,7 +22,7 @@ link para saber mais detalhes de cada camada:
 
 
 
-**2) MAC Address (Camada Física)**
+**2) <u>MAC Address (Camada Física)</u>**
 
  O MAC Address ou Endereço MAC é de suma importância se tratando de redes e conexões Ethernet. Ele é a mais básica identificação de uma placa de rede ou dispositivo, cada placa possui um endereço único. Dispositivo como Switch por exemplo faz uma conexão entre o endereço de origem até o endereço de destino. A conexão funciona com dois protocolos, o endereço IP e o MAC, sendo que o endereço IP é a primeira opção para envio de pacotes. Se o destino não está no mesma rede IP do remetente, é necessário enviar para o roteador configurado.
 
@@ -32,7 +32,7 @@ link para saber mais detalhes de cada camada:
 
 
 
-**3) ETHERNET (Camada Física/Enlace)**
+**3) <u>ETHERNET (Camada Física/Enlace)</u>**
 
  Ethernet é um protocolo de conexão que gerencia como os dispositivos e computadores se comunicam em uma rede local (LAN). Muito comum em ambientes corporativos, esse protocolo facilita o acesso e a troca de informações e arquivos entre máquinas que estão na mesma rede.
 
@@ -44,7 +44,7 @@ link para saber mais detalhes de cada camada:
 
 
 
-**4) PPP (Camada Enlace)**
+**4) <u>PPP (Camada Enlace)</u>**
 
  O Point-to-Point Protocol, ponto-a-ponto é um protocolo para transmissão de pacotes através de linhas seriais. É projetado para transportar pacotes através de uma conexão entre dois pontos. A conexão entre os pontos deve prover operação full-duplex sendo assumido que os pacotes são entregues em ordem. Estas características são desejadas para que o PPP proporcione uma solução comum para a conexão de uma grande variedade de hosts e roteadores.
 
@@ -54,13 +54,13 @@ link para saber mais detalhes de cada camada:
 
 
 
-**5) ARP (Camadas Rede/Enlace)**
+**5) <u>ARP (Camadas Rede/Enlace)</u>**
 
  O ARP (Address Resolution Protocol – protocolo de resolução de endereços) é um protocolo utilizado para resolução de endereços físicos, isto é, eles têm a função de mapear ou traduzir qual endereço físico está vinculado a um determinando endereço IP de um host remoto. Isto é necessário em redes da família Ethernet para que o quadro de camada 2 possa ser montado e enviado localmente até seu destino (que pode ser a Internet, por exemplo). O mecanismo de tradução de endereços implementado pelo ARP é baseado no uso de broadcast.
 
 
 
-**6) IP (Camada Rede)**
+**6) <u>IP (Camada Rede)</u>**
 
  O IP (Internet Protocol) é um dos principais protocolos utilizados na comunicação de dados na Internet. É responsável pela identificação e endereçamento dos dispositivos conectados em uma rede, permitindo que eles se comuniquem entre si e garante que os dados enviados cheguem ao destinatário correto. Cada dispositivo em uma rede tem um endereço IP único, que é formado por uma série de números separados por pontos. 
 
@@ -75,7 +75,7 @@ https://www.avg.com/pt/signal/what-is-an-ip-address
 
 
 
-**7) ICMP (Camada Rede)**
+**7) <u>ICMP (Camada Rede)</u>**
 
  Internet Control Message Protocol é um protocolo para determinar a disponibilidade da rede e gerenciar o tráfego e o controle de erros na camada de rede. Este protocolo diagnostica problemas de conectividade de rede ou transferência de dados entre dispositivos. Ele auxilia enviando, recebendo e processando mensagens ICMP para relatar problemas de conectividade aos dispositivos de rede de origem.
 
@@ -83,7 +83,7 @@ https://www.avg.com/pt/signal/what-is-an-ip-address
 
 
 
-**8) TCP e UDP (Camada de Transporte)**
+**8) <u>TCP e UDP (Camada de Transporte)</u>**
 
  O protocolo TCP é, talvez, o mais utilizado. É voltado à conexão e tem como garantia a integridade, segurança e ordem de todos os dados. É interessante notar que o TCP permite o envio simultâneo de dados de ambos os pontos ao outro, durante todo o fluxo de comunicação. Com o TCP, de fato temos uma conexão entre um ponto e outro, comumente chamados de servidor e cliente.
 
@@ -95,7 +95,7 @@ https://www.avg.com/pt/signal/what-is-an-ip-address
 
 
 
-**9) FTP (Camada Aplicação/Transporte)**
+**9) <u>FTP (Camada Aplicação/Transporte)</u>**
 
   FTP (File Transfer Protocol) é um protocolo padrão usado para transferir arquivos entre computadores via conexões TCP/IP na rede. Ele permite que usuários autorizados enviem e recebam arquivos de servidores FTP, sendo assim, um modelo de transferência de arquivos da camada de transporte e da camada de aplicação com servidores FTP. 
 
@@ -105,7 +105,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  
 
-**10) SSH (Camada Sessão/Aplicação)**
+**10) <u>SSH (Camada Sessão/Aplicação)</u>**
 
  O protocolo SSH (Secure Shell) é um método seguro e confiável para conectar-se a servidores remotos e realizar tarefas administrativas, como gerenciamento de arquivos e processos. Com ele, é possível acessar seus servidores de forma segura e privada, sem precisar se preocupar com invasões ou interceptações de dados. 
 
@@ -115,7 +115,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 
 
-**11) SNMP (Camada Aplicação)**
+**11) <u>SNMP (Camada Aplicação)</u>**
 
  Simple Network Management Protocol  é o protocolo mais usado para saber o que acontece dentro de ativos de redes e serviços, já que permite trabalhar com produtos e serviços de diversos fabricantes. Principais soluções de monitoramento de redes fornecem alertas (SMS, E-mail ou PUSH) para comunicar falhas na infraestrutura de rede. Seu funcionamento se dá através de uma solicitação ou alteração de configuração de status.
 
@@ -125,7 +125,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 
 
-**12) NTP (Camada Aplicação)**
+**12) <u>NTP (Camada Aplicação)</u>**
 
  Network Time Protocol é o padrão que permite a sincronização dos relógios dos dispositivos de uma rede como servidores, estações de trabalho, roteadores e outros equipamentos à partir de referências de tempo confiáveis. O NTP permite manter o relógio de um computador sincronizado com a hora sempre certa e com precisão de milissegundos. 
 
@@ -135,7 +135,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 
 
-**13) HTTP e HTTPs (Camada Aplicação)**
+**13) <u>HTTP e HTTPs (Camada Aplicação)</u>**
 
  O Protocolo (HyperText Transfer Protocol) é usado principalmente em redes baseadas em IP para a transmissão de páginas web de um servidor para o navegador. Ele funciona sem criptografia e não se limita a aplicativos. 
 
@@ -149,7 +149,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 
 
-**14) DHCP (Camada Aplicação)**
+**14) <u>DHCP (Camada Aplicação)</u>**
 
  DHCP é a sigla para (Dynamic Host Configuration Protocol). Trata-se de um protocolo utilizado em redes de computadores que permite a estes obterem um endereço IP automaticamente. Em uma rede local ele distribui endereços IP na medida em que as máquinas solicitam conexão à rede. Quando um computador desconecta, seu IP fica livre para uso de outra máquina. Para isso, o servidor geralmente é configurado para fazer uma checagem da rede em intervalos pré-definidos.
 
@@ -159,7 +159,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 ![](https://www.valuehost.com.br/blog/wp-content/uploads/2022/12/post_thumbnail-416d9756493bb261933c9a08a83ed837.jpeg)
 
-**15) DNS**
+**15) <u>DNS</u>**
 
  Domain Name System não é necessariamente um protocolo, mas sim um servidor que contém nomes de domínio na internet, mas por padrão o DNS usa o protocolo User Datagram Protocol UDP para servir as solicitações e as requisições. É um sistema que contém uma lista de nomes de domínio e permite que usuários encontrem uma página por meio desses nomes.
 
