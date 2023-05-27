@@ -40,7 +40,7 @@ link para saber mais detalhes de cada camada:
 
  Principais vantagens de utilizar conexão cabeada é a velocidade, estabilidade e segurança. Existem três tipos principais de redes que são configuradas com a ethernet, Fast Ethernet, Gigabit Ethernet e Switch Ethernet. 
 
-![](https://imgs.casasbahia.com.br/7150513/1xg.jpg?imwidth=500)
+![](https://www.electronicshub.org/wp-content/uploads/2021/03/Ethernet-1.png)
 
 
 
