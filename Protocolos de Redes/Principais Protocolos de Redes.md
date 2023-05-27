@@ -1,15 +1,14 @@
 # Principais Protocolos de Redes
 
-##### _Neste artigo listarei alguns dos Principais Protocolos de Redes e algumas de suas funcionalidades brevemente._ 
+#### _Neste artigo listarei alguns dos Principais Protocolos de Redes e algumas de suas funcionalidades brevemente._ 
 
-• Os protocolos surgiram para que a comunicação pudesse ser realizada de 
-maneira eficaz e padronizada.
-• A Internet e as redes de computadores em geral fazem uso intenso 
-de protocolos.
-• Diferentes tipos de protocolos são usados para realizar diferentes
-tarefas de comunicação.
+#
 
+##### • Os protocolos surgiram para que a comunicação pudesse ser realizada de maneira eficaz e padronizada.
+##### • A Internet e as redes de computadores em geral fazem uso intenso de protocolos.
+##### • Diferentes tipos de protocolos são usados para realizar diferentestarefas de comunicação.
 
+#
 
 **1) <u>Modelo TCP/IP:</u>** 
 
@@ -20,7 +19,7 @@ tarefas de comunicação.
 link para saber mais detalhes de cada camada: 
 [Modelo OSI e suas 7 camadas - Protocolos de rede | Alura](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi?gclid=CjwKCAjwscGjBhAXEiwAswQqNJh9G7ez8YhX111svACxhHfXAhec9-N2erGd-kO2D-nDNtDCc2SW9xoCax0QAvD_BwE)
 
-
+#
 
 **2) <u>MAC Address (Camada Física)</u>**
 
@@ -30,7 +29,7 @@ link para saber mais detalhes de cada camada:
 
 <img src="https://www.mundotibrasil.com.br/wp-content/uploads/2014/07/cmd.png" alt="https://www.mundotibrasil.com.br/wp-content/uploads/2014/07/cmd.png" />
 
-
+#
 
 **3) <u>ETHERNET (Camada Física/Enlace)</u>**
 
@@ -42,7 +41,7 @@ link para saber mais detalhes de cada camada:
 
 <img src="https://www.electronicshub.org/wp-content/uploads/2021/03/Ethernet-1.png" />
 
-
+#
 
 **4) <u>PPP (Camada Enlace)</u>**
 
@@ -52,13 +51,13 @@ link para saber mais detalhes de cada camada:
 
  Dois derivados dele são o Point-to-Point Protocol over Ethernet (PPPoE), e Point-to-Point Protocol over ATM (PPPoA), são usados mais comumente por Provedores de Serviços de Internet para estabelecer uma conexão de serviços de Internet de Linha Digital de Assinante (ou DSL) com seus clientes.
 
-
+#
 
 **5) <u>ARP (Camadas Rede/Enlace)</u>**
 
  O ARP (Address Resolution Protocol – protocolo de resolução de endereços) é um protocolo utilizado para resolução de endereços físicos, isto é, eles têm a função de mapear ou traduzir qual endereço físico está vinculado a um determinando endereço IP de um host remoto. Isto é necessário em redes da família Ethernet para que o quadro de camada 2 possa ser montado e enviado localmente até seu destino (que pode ser a Internet, por exemplo). O mecanismo de tradução de endereços implementado pelo ARP é baseado no uso de broadcast.
 
-
+#
 
 **6) <u>IP (Camada Rede)</u>**
 
@@ -73,7 +72,7 @@ link para saber mais detalhes de cada camada:
 link para saber mais detalhes específicos do Endereço IP:
 https://www.avg.com/pt/signal/what-is-an-ip-address
 
-
+#
 
 **7) <u>ICMP (Camada Rede)</u>**
 
@@ -81,7 +80,7 @@ https://www.avg.com/pt/signal/what-is-an-ip-address
 
  Portanto, o principal objetivo do protocolo ICMP é relatar erros na camada de rede. No entanto, atores mal-intencionados podem manipular seus recursos para lançar ataques como ataques distribuídos de negação de serviço (DDoS).
 
-
+#
 
 **8) <u>TCP e UDP (Camada de Transporte)</u>**
 
@@ -93,7 +92,7 @@ https://www.avg.com/pt/signal/what-is-an-ip-address
 
 <img src="https://dicionariotec.com/public_html/images/tcpnudp.jpg" />
 
-
+#
 
 **9) <u>FTP (Camada Aplicação/Transporte)</u>**
 
@@ -103,7 +102,7 @@ https://www.avg.com/pt/signal/what-is-an-ip-address
 
 O FTP não tem qualquer recurso de segurança incorporado. Isso significa que ele geralmente é fácil de ser haqueado, já que ele transfere dados de texto simples sem qualquer criptografia.
 
- 
+ #
 
 **10) <u>SSH (Camada Sessão/Aplicação)</u>**
 
@@ -113,7 +112,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 <img src="https://www.ipxo.com/app/uploads/2022/02/What-is-SSH-820x460.jpg" />
 
-
+#
 
 **11) <u>SNMP (Camada Aplicação)</u>**
 
@@ -123,7 +122,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 <img src="https://static.wixstatic.com/media/911aa6_20122c4c57204ccc92d2d9f3e8973cd2~mv2.png/v1/fit/w_1000%2Ch_628%2Cal_c%2Cq_80,enc_auto/file.jpg" />
 
-
+#
 
 **12) <u>NTP (Camada Aplicação)</u>**
 
@@ -133,7 +132,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Network_Time_Protocol_servers_and_clients.svg/350px-Network_Time_Protocol_servers_and_clients.svg.png" />
 
-
+#
 
 **13) <u>HTTP e HTTPs (Camada Aplicação)</u>**
 
@@ -147,7 +146,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 <img src="https://www.datarain.com.br/wp-content/uploads/2020/08/HTTP-vs-HTTPS-300x153.png" />
 
-
+#
 
 **14) <u>DHCP (Camada Aplicação)</u>**
 
@@ -159,6 +158,8 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
 <img src="https://www.valuehost.com.br/blog/wp-content/uploads/2022/12/post_thumbnail-416d9756493bb261933c9a08a83ed837.jpeg" />
 
+#
+
 **15) <u>DNS</u>**
 
  Domain Name System não é necessariamente um protocolo, mas sim um servidor que contém nomes de domínio na internet, mas por padrão o DNS usa o protocolo User Datagram Protocol UDP para servir as solicitações e as requisições. É um sistema que contém uma lista de nomes de domínio e permite que usuários encontrem uma página por meio desses nomes.
@@ -167,4 +168,8 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  Existem duas formas de acessar um site na internet: digitando o nome de domínio que formam a URL ou digitando o endereço IP da sua hospedagem.
 
+<<<<<<< HEAD
 <img src="https://academy.bit2me.com/wp-content/uploads/2019/05/49_DNS.png" />
+=======
+![](https://academy.bit2me.com/wp-content/uploads/2019/05/49_DNS.png)
+>>>>>>> eecd136f5d5d0408a588ed3744d26a21b1e6083c
