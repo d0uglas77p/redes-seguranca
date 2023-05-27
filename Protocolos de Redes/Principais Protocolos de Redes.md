@@ -14,8 +14,12 @@
 
  A  arquitetura TCP/IP é combinação de dois protocolos TCP (Transmission Control Protocol) + IP (Internet Protocol). Eles são os responsáveis por todo o envio e recebimento de dados em todas as redes e consequentemente, na Internet. TCP/IP é uma referência do Modelo OSI, mas é a que foi implementada e está em uso até os dias de hoje. Ele é composto por 4 camadas, formando uma pilha de estrutura.
 
+<div>
+<img align="center" height="370" width="450"
 <img src="https://www.dltec.com.br/blog/wp-content/uploads/2019/02/osi-tcp-ip.png" />
+</div>
 
+ 
 link para saber mais detalhes de cada camada: 
 [Modelo OSI e suas 7 camadas - Protocolos de rede | Alura](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi?gclid=CjwKCAjwscGjBhAXEiwAswQqNJh9G7ez8YhX111svACxhHfXAhec9-N2erGd-kO2D-nDNtDCc2SW9xoCax0QAvD_BwE)
 
@@ -39,8 +43,11 @@ link para saber mais detalhes de cada camada:
 
  Principais vantagens de utilizar conexão cabeada é a velocidade, estabilidade e segurança. Existem três tipos principais de redes que são configuradas com a ethernet, Fast Ethernet, Gigabit Ethernet e Switch Ethernet. 
 
+<div>
+<img align="center" height="370" width="450"
 <img src="https://www.electronicshub.org/wp-content/uploads/2021/03/Ethernet-1.png" />
-
+</div>
+ 
 #
 
 **4) <u>PPP (Camada Enlace)</u>**
@@ -110,7 +117,10 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  O SSH foi criado para resolver essa questão de segurança, permitindo a conexão e comunicação entre o cliente e o servidor de forma segura, através da criptografia das informações. Ele se tornou uma das ferramentas mais utilizadas para gerenciar servidores remotamente e tem sido amplamente utilizado em vários setores.
 
+<div>
+<img align="center" height="350" width="640"
 <img src="https://www.ipxo.com/app/uploads/2022/02/What-is-SSH-820x460.jpg" />
+</div> 
 
 #
 
@@ -120,7 +130,10 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  Em resumo, sua função básica é facilitar a troca de informações de gerenciamento entre os dispositivos da rede. Para isso, fornece dados de status dos elementos ativos da rede e estatísticas importantes para seu funcionamento, como uso, taxa de erros, vazão, nível de colisão, entra outros.
 
+<div>
+<img align="center" height="350" width="640"
 <img src="https://static.wixstatic.com/media/911aa6_20122c4c57204ccc92d2d9f3e8973cd2~mv2.png/v1/fit/w_1000%2Ch_628%2Cal_c%2Cq_80,enc_auto/file.jpg" />
+</div> 
 
 #
 
@@ -156,7 +169,10 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  Em resumo, ele atribui endereços de IP automaticos e variáveis, oferecendo configuração dinâmica de hosts e outros parâmetros de configuração para clientes de rede.
 
+<div>
+<img align="center" height="350" width="640"
 <img src="https://www.valuehost.com.br/blog/wp-content/uploads/2022/12/post_thumbnail-416d9756493bb261933c9a08a83ed837.jpeg" />
+</div>
 
 #
 
@@ -168,8 +184,10 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  Existem duas formas de acessar um site na internet: digitando o nome de domínio que formam a URL ou digitando o endereço IP da sua hospedagem.
 
-<<<<<<< HEAD
+<div>
+<img align="center" height="350" width="640"
 <img src="https://academy.bit2me.com/wp-content/uploads/2019/05/49_DNS.png" />
-=======
-![](https://academy.bit2me.com/wp-content/uploads/2019/05/49_DNS.png)
->>>>>>> eecd136f5d5d0408a588ed3744d26a21b1e6083c
+</div> 
+
+
+
