@@ -15,7 +15,7 @@ tarefas de comunicação.
 
  A  arquitetura TCP/IP é combinação de dois protocolos TCP (Transmission Control Protocol) + IP (Internet Protocol). Eles são os responsáveis por todo o envio e recebimento de dados em todas as redes e consequentemente, na Internet. TCP/IP é uma referência do Modelo OSI, mas é a que foi implementada e está em uso até os dias de hoje. Ele é composto por 4 camadas, formando uma pilha de estrutura.
 
-![](https://www.dltec.com.br/blog/wp-content/uploads/2019/02/osi-tcp-ip.png)
+<img src="https://www.dltec.com.br/blog/wp-content/uploads/2019/02/osi-tcp-ip.png" />
 
 link para saber mais detalhes de cada camada: 
 [Modelo OSI e suas 7 camadas - Protocolos de rede | Alura](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi?gclid=CjwKCAjwscGjBhAXEiwAswQqNJh9G7ez8YhX111svACxhHfXAhec9-N2erGd-kO2D-nDNtDCc2SW9xoCax0QAvD_BwE)
@@ -28,7 +28,7 @@ link para saber mais detalhes de cada camada:
 
  Endereço MAC é um número de série de 48 bits exibido em 12 dígitos hexadecimais, os 6 primeiros dígitos informam o fabricante que serve para identificar aquele dispositivo de rede Ethernet ou Wi-Fi e os outros 6 são o número de série.
 
-![https://www.mundotibrasil.com.br/wp-content/uploads/2014/07/cmd.png](https://www.mundotibrasil.com.br/wp-content/uploads/2014/07/cmd.png)
+<img src="https://www.mundotibrasil.com.br/wp-content/uploads/2014/07/cmd.png" alt="https://www.mundotibrasil.com.br/wp-content/uploads/2014/07/cmd.png" />
 
 
 
@@ -40,7 +40,7 @@ link para saber mais detalhes de cada camada:
 
  Principais vantagens de utilizar conexão cabeada é a velocidade, estabilidade e segurança. Existem três tipos principais de redes que são configuradas com a ethernet, Fast Ethernet, Gigabit Ethernet e Switch Ethernet. 
 
-![](https://www.electronicshub.org/wp-content/uploads/2021/03/Ethernet-1.png)
+<img src="https://www.electronicshub.org/wp-content/uploads/2021/03/Ethernet-1.png" />
 
 
 
@@ -68,7 +68,7 @@ link para saber mais detalhes de cada camada:
 
  O IP depende de roteadores para encaminhar pacotes de dados pela rede. Cada roteador verifica o cabeçalho do pacote e encaminha o pacote para o próximo roteador na rota até o destinatário. Sem roteadores, a comunicação entre dispositivos na Internet seria impossível. O IP é representado por um conjunto de quatro números: por exemplo, 192.158.1.38. Cada número do conjunto pode variar entre 0 e 255. Ou seja, o intervalo de endereçamento IP vai de 0.0.0.0 a 255.255.255.255.
 
-![](https://www.hardware.com.br/static/20140325/redes-comand1.png)
+<img src="https://www.hardware.com.br/static/20140325/redes-comand1.png" />
 
 link para saber mais detalhes específicos do Endereço IP:
 https://www.avg.com/pt/signal/what-is-an-ip-address
@@ -91,7 +91,7 @@ https://www.avg.com/pt/signal/what-is-an-ip-address
 
  O que determina essa escolha é o tipo de aplicação a ser utilizada pelo desenvolvedor.
 
-![](https://dicionariotec.com/public_html/images/tcpnudp.jpg)
+<img src="https://dicionariotec.com/public_html/images/tcpnudp.jpg" />
 
 
 
@@ -111,7 +111,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  O SSH foi criado para resolver essa questão de segurança, permitindo a conexão e comunicação entre o cliente e o servidor de forma segura, através da criptografia das informações. Ele se tornou uma das ferramentas mais utilizadas para gerenciar servidores remotamente e tem sido amplamente utilizado em vários setores.
 
-![](https://www.ipxo.com/app/uploads/2022/02/What-is-SSH-820x460.jpg)
+<img src="https://www.ipxo.com/app/uploads/2022/02/What-is-SSH-820x460.jpg" />
 
 
 
@@ -121,7 +121,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  Em resumo, sua função básica é facilitar a troca de informações de gerenciamento entre os dispositivos da rede. Para isso, fornece dados de status dos elementos ativos da rede e estatísticas importantes para seu funcionamento, como uso, taxa de erros, vazão, nível de colisão, entra outros.
 
-![](https://static.wixstatic.com/media/911aa6_20122c4c57204ccc92d2d9f3e8973cd2~mv2.png/v1/fit/w_1000%2Ch_628%2Cal_c%2Cq_80,enc_auto/file.jpg)
+<img src="https://static.wixstatic.com/media/911aa6_20122c4c57204ccc92d2d9f3e8973cd2~mv2.png/v1/fit/w_1000%2Ch_628%2Cal_c%2Cq_80,enc_auto/file.jpg" />
 
 
 
@@ -131,7 +131,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  O NTP usa um algoritmo para sincronizar o tempo em uma rede usando escalas de tempo como UTC e pode suportar recursos como o salto de segundos - adicionado para compensar a desaceleração da rotação da Terra. No entanto, o NTP pode sincronizar as redes com um relógio atômico usando a rede do sistema de posicionamento global (GPS) ou a transmissão de rádio especializada. Os relógios atômicos são os dispositivos de manutenção de tempo mais absolutos.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Network_Time_Protocol_servers_and_clients.svg/350px-Network_Time_Protocol_servers_and_clients.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Network_Time_Protocol_servers_and_clients.svg/350px-Network_Time_Protocol_servers_and_clients.svg.png" />
 
 
 
@@ -145,7 +145,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  O protocolo HTTPS (HyperText Transfer Protocol Secure) é uma forma de proteger a comunicação entre dois sistemas, como servidor e navegador. Ele permite o trânsito de dados confidenciais, como números de cartão de crédito, informações bancárias e credenciais de login. O ícone de cadeado, bem como o HTTPS, o certificado SSL e as informações detalhadas, mostram rapidamente ao usuário se a página é segura ou não. 
 
-![](https://www.datarain.com.br/wp-content/uploads/2020/08/HTTP-vs-HTTPS-300x153.png)
+<img src="https://www.datarain.com.br/wp-content/uploads/2020/08/HTTP-vs-HTTPS-300x153.png" />
 
 
 
@@ -157,7 +157,7 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  Em resumo, ele atribui endereços de IP automaticos e variáveis, oferecendo configuração dinâmica de hosts e outros parâmetros de configuração para clientes de rede.
 
-![](https://www.valuehost.com.br/blog/wp-content/uploads/2022/12/post_thumbnail-416d9756493bb261933c9a08a83ed837.jpeg)
+<img src="https://www.valuehost.com.br/blog/wp-content/uploads/2022/12/post_thumbnail-416d9756493bb261933c9a08a83ed837.jpeg" />
 
 **15) <u>DNS</u>**
 
@@ -167,4 +167,4 @@ O FTP não tem qualquer recurso de segurança incorporado. Isso significa que el
 
  Existem duas formas de acessar um site na internet: digitando o nome de domínio que formam a URL ou digitando o endereço IP da sua hospedagem.
 
-![](https://academy.bit2me.com/wp-content/uploads/2019/05/49_DNS.png)
+<img src="https://academy.bit2me.com/wp-content/uploads/2019/05/49_DNS.png" />
