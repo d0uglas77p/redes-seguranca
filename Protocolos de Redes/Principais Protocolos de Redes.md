@@ -1,13 +1,10 @@
 # Principais Protocolos de Redes
 
-##### Neste artigo listarei alguns dos Principais Protocolos de Redes e algumas de suas funcionalidades brevemente. 
+#### Neste artigo listarei alguns dos Principais Protocolos de Redes e algumas de suas funcionalidades brevemente. 
 
-• Os protocolos surgiram para que a comunicação pudesse ser realizada de 
-maneira eficaz e padronizada.
-• A Internet e as redes de computadores em geral fazem uso intenso 
-de protocolos.
-• Diferentes tipos de protocolos são usados para realizar diferentes
-tarefas de comunicação.
+##### • Os protocolos surgiram para que a comunicação pudesse ser realizada de maneira eficaz e padronizada.
+#####  A Internet e as redes de computadores em geral fazem uso intenso de protocolos.
+#####  Diferentes tipos de protocolos são usados para realizar diferentes arefas de comunicação.
 
 
 
