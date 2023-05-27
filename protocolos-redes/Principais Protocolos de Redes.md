@@ -1,13 +1,10 @@
 # Principais Protocolos de Redes
 
-##### Neste artigo listarei alguns dos Principais Protocolos de Redes e algumas de suas funcionalidades brevemente. 
+### Neste artigo listarei alguns dos Principais Protocolos de Redes e algumas de suas funcionalidades brevemente. 
 
-• Os protocolos surgiram para que a comunicação pudesse ser realizada de 
-maneira eficaz e padronizada.
-• A Internet e as redes de computadores em geral fazem uso intenso 
-de protocolos.
-• Diferentes tipos de protocolos são usados para realizar diferentes
-tarefas de comunicação.
+##### • Os protocolos surgiram para que a comunicação pudesse ser realizada de maneira eficaz e padronizada.
+##### • A Internet e as redes de computadores em geral fazem uso intenso de protocolos.
+##### • Diferentes tipos de protocolos são usados para realizar diferentes tarefas de comunicação.
 
 
 
@@ -18,6 +15,7 @@ tarefas de comunicação.
 ![osi-tcp-ip](C:\Users\dougl\Downloads\osi-tcp-ip.png)
 
 link para saber mais detalhes de cada camada: 
+
 [Modelo OSI e suas 7 camadas - Protocolos de rede | Alura](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi?gclid=CjwKCAjwscGjBhAXEiwAswQqNJh9G7ez8YhX111svACxhHfXAhec9-N2erGd-kO2D-nDNtDCc2SW9xoCax0QAvD_BwE)
 
 
